@@ -27,7 +27,7 @@ while True:
     choice = input("Choose an option: ")
 
     if choice == "6":
-        print("Exiting program... Goodbye 👋")
+        print("Exiting program... Goodbye ")
         break
 
     if choice == "5":
